@@ -1,0 +1,371 @@
+body {
+     margin:0px;
+	 padding:0px;
+    }
+	header{
+	position:relative;
+    height:60px;
+    width:100%;
+    background-color:#f1f1f1;
+	}
+	
+	#logo{
+      z-index:0;
+      position:relative;
+      width:100px;
+	  float:left;
+	  margin-left:20px;
+	  margin-top:12px;
+	    -moz-user-select: none;
+  -webkit-user-select: none;
+  /* this will work for QtWebKit in future */
+  -webkit-user-drag: none;
+    }
+
+    .button{
+      z-index:1;
+      position:absolute;
+      width:57px;
+      height:33px;
+	  float:left;
+	  margin-left:-1px;
+	  top:-30px;
+    }
+	
+    .microphone{
+      z-index:1;
+      position:absolute;
+      width:20px;
+      height:20px;
+	  margin-top:20px;
+	  margin-left:560px;
+    }
+    .search_box{
+     z-index: 0;
+     position:relative;
+	 float:left;
+     width:550px;
+     height:26px;
+     border:solid;
+     border-color:#D5D5D5;
+     border-width:thin;
+     padding-left: 10px;
+     padding-top: 2px;
+     font-size:22px;
+     background-color:#FFFFFF;
+	 margin-left:30px;
+	 margin-top:15px;
+    }
+	
+	footer{
+	position:relative;
+    height:60px;
+    width:100%;
+    margin-top:350px;
+    background-color:#F1F1F1;
+	}
+	
+	nav {
+	position:relative;
+    height:60px;
+	background-image: url("top bar colour result.png");
+    background-repeat: repeat-x;
+    background-size: 1px 60px;
+    float:top;
+	}
+	
+	section {
+    float:left;
+	}
+	
+	aside {
+    width:500px;
+    height:1100px;
+    padding-bottom:100px;
+    margin-left:700px;
+	margin-top:30px;
+	background-color:white;
+	border: 1px solid #D5D5D5;
+	}
+	
+    button.menu_highlight{
+    position:relative;
+    font-size:13px;
+    color:#D80606;
+    font-family: "Arial", Bold;
+	font-weight: bold;
+	background:none;
+	border:none;
+	outline: none;
+    }
+	button.menu_redirect{
+    position:relative;
+    font-size:13px;
+    color:#787878;
+    font-weight:100;
+    font-family: "Arial", Bold;
+	background:none;
+	border:none;
+	outline: none;
+    }
+	
+    .menu_bar{
+     z-index: 0;
+     position:absolute;
+	 margin-top:20px;
+	 margin-left:123px;
+	 width:400px;
+	 text-align:center;
+    }
+	
+	 #nav_bar{
+	 z-index: 1;
+	 position:absolute;
+	 width:44px;
+	 height:3px;
+	 left:128px;
+	 top:56px;
+	 }
+	 
+	 #profile{
+	  z-index:0;
+      position:relative;
+      width:30px;
+      height:30px;
+	  margin-top:15px;
+	  margin-right:10px;
+	  float:right;
+	 }
+	
+	h1.kelvinPlus{
+	  z-index:0;
+      float:right;
+	  position:relative;
+      font-size:15px;
+      color:#595959;
+	  font-weight:200;
+      font-family: "Arial", regular;
+      text-decoration:none;
+	  margin-top:22px;
+	  margin-right:10px;
+	 }
+	 
+    .items{ 
+    z-index: 0;
+    position: relative;
+    margin-left:135px;
+    margin-top:10px;
+    width:500px;
+    }
+	
+	.imgLiquid{
+     width:80px;
+	 height:80px;
+	 margin-right:5px;
+	 display:block;
+	 overflow: hidden;
+	 text-align: center
+	 }
+	
+	.item_image{
+	z-index: 0;
+    float:left;
+    height:50px;
+	}
+    .item_title{
+    z-index: 0;
+    color: #1A0DAB;
+    font-size: 18px;
+    font-family: "Arial", regular;
+    }
+    .item_link{
+    z-index: 0;
+    color: #34804b;
+    font-size: 13px;
+    font-family: "Arial", regular;
+    text-decoration:none;
+    }
+
+    #text_description{
+    z-index: 0;
+    color: #868888;
+    font-size: 13px;
+    font-family: "Arial", regular;
+    }
+
+    tr.spaceUnder > td
+    {
+    padding-bottom: 1em;
+    }
+
+    div.text_description{
+    width:500px;
+    word-wrap: break-word;
+    }
+     
+	div.text_description_with_image{
+    width:420px;
+    word-wrap: break-word;
+    }
+	 
+    p.result_count{
+    position:relative;
+    z-index: 0;
+    color: #787878;
+    font-size: 13px;
+    font-family: "Arial", regular;
+    margin-top:13px;
+    margin-left:140px;
+    }
+	
+	#picOne{
+	  position:relative;
+	  height:200px;
+	  float:left;
+	}
+	#picTwo{
+	  position:relative;
+	  height:100px;
+	  margin-left:3px;
+	  float:bottom;
+	 }
+	#picThree{
+	  position:relative;
+	  height:99px;
+	  margin-left:3px;
+	  float:left;
+	 }
+	#picFour{
+	  position:relative;
+	  height:98px;
+	  margin-top:3px;
+	  margin-left:3px;
+	  float:left;
+	 }
+	#picFive{
+	  position:relative;
+	  width:73px;
+	  margin-left:3px;
+	  float:right;
+	 }
+	#picSix{
+	  position:relative;
+	  width:161px;
+	  height:90px;
+	  margin-top:3px;
+	  margin-left:3px;
+	  float:right;
+	 }
+	 
+	 h1.name{
+	 position:relative;
+	 color: #212121;
+     font-size: 31px;
+     font-family: "Arial", regular;
+	 font-weight:100;
+	 margin-left:14px;
+	 margin-top:15px;
+	 }
+	 
+	 h2.title{
+	 position:relative;
+	 color: #858585;
+     font-size: 13px;
+     font-family: "Arial", regular;
+	 font-weight:100;
+	 margin-left:15px;
+	 margin-top:-10px;
+	  }
+	 
+	 h3.description{
+	 position:relative;
+	 width:480px;
+	 color: #212121;
+     font-size: 13px;
+     font-family: "Arial", regular;
+	 font-weight:100;
+	 margin-left:15px;
+	 margin-top:20px;
+	 line-height:18px;
+	 }
+	 
+	 h3.status{
+	 z-index: 1;
+	 position:relative;
+	 width:480px;
+	 float:left;
+	 color: #212121;
+     font-size: 14px;
+     font-family: "Arial", regular;
+	 font-weight:100;
+	 margin-left:15px;
+	 line-height:30px;
+	 }
+	 
+	 h1.project_title{
+	 position:absolute;
+	 color: #212121;
+     font-size: 20px;
+     font-family: "Arial", regular;
+	 font-weight:100;
+	 margin-left:10px;
+	 margin-top:180px;
+	 }
+	 
+	 span.bold{
+	 font-weight:bold;
+	  }
+	 
+	 a.hide_link{
+	 color: #1A0DAB;
+	 text-decoration:none;
+	  }
+	 
+	 a.hide_link_2{
+	 color: #373737;
+	 text-decoration:none;
+	  }
+	 
+	 div.project_layout{
+	 z-index: 0;
+	 position:relative;
+	 margin-left:20px;
+	 width:auto;
+	 height:400px;
+	 }
+	 
+	 div.project_display{
+	 margin-top:40px;
+	 position:relative;
+	 width:110px;
+	 padding-left:10px;
+	 float:left;
+	 }
+	 
+	 .project_pic{
+	 position:relative;
+	 width:80px;
+	  }
+	 
+	 h1.project_description{
+	 position:relative;
+	 color: #212121;
+     font-size: 13px;
+	 width:80px;
+     font-family: "Arial", regular;
+	 font-weight:100;
+	  }
+	 
+	 h2.platform{
+	 position:relative;
+	 color: #858585;
+     font-size: 10px;
+     font-family: "Arial", regular;
+	 font-weight:100;
+	 margin-top:-8px;
+	 }
+	 
+	 div.photo_layout{
+	 position:relative;
+	 height:200px;
+	 }

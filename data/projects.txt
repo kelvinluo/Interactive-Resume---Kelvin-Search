@@ -1,0 +1,24 @@
+images/project/1.png
+https://github.com/kelvinluo/Re-Corder--OCR-Budget-Planner
+Re'Corder (OCR Application)
+Android Platform (Java)
+images/project/2.png
+https://github.com/kelvinluo/Scarlet-Night
+Scarlet Night (Combat Game)
+Greenfoot(Java)
+images/project/6.png
+https://github.com/kelvinluo/Twitter-Mining-Machine
+Twitter Mining Machine
+PC Platform (Python)
+images/project/4.png
+game/chat noir/index.html
+Where Does The Fox Roll (HTML Game)
+Web (HTML)
+images/project/5.png
+https://github.com/kelvinluo/Hell-s-Hospital
+Hell's Hospital ER System
+Android Platform (Java)
+images/project/7.png
+http://kelvinluo.com
+Interactive Resume
+Web (HTML)

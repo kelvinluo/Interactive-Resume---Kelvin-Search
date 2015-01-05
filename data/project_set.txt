@@ -1,0 +1,20 @@
+Re'corder - Android Application
+github.com/kelvinluo/Re-Corder--OCR-Budget-Planner
+One of a kind Android budget planning application made possible with OCR technology. Simply take a picture of any receipt and the app will automatically scan the image looking for the parsed total and update your monthly spendings in real time.
+
+Hell's Hospital ER System - Android Application
+github.com/kelvinluo/Hell-s-Hospital
+A simple application used in the emergency room of a hospital. The application will store all the patients' record based on the user's input, and all these information is capable of being reviewed or changed by the specific users.
+
+Where Does The Fox Jump - HTML5 game
+github.com/kelvinluo/Where-Does-The-Fox-Roll
+A casual JavaScript puzzle game designed for efficient short study breaks. Paired with relaxing piano music in the background. Implemented in HTML5, CSS3 and JQuery with a recursive AI algorithm.
+
+Scarlet Night - Indie Game - PC Platform
+github.com/kelvinluo/Scarlet-Night
+Developed a side-scrolling SSB arena multiplayer game in Java as a part of a part of a team environment. Implemented 5 playable characters, 3 unique maps, custom weapon upgrades, in-game setting/customizations and personal voiceovers..
+
+Twitter Mining Machine
+https://github.com/kelvinluo/Twitter-Mining-Machine
+This software runs under the environment of Python 2.7 This is a twitter mining machine which use for searching each listed screen_names on the input file and return the latest 3000 tweets of each user in a output txt file.
+

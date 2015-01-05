@@ -1,0 +1,67 @@
+Programing Language - HTML/CSS
+www.w3.org/standards/webdesign/htmlcss
+HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages.
+
+Programing Language - JQuery
+jquery.com/
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+
+Programing Language - Javascript
+developer.mozilla.org/en-US/docs/Web/JavaScript
+JavaScript? (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, most known as the scripting language for Web pages.
+
+Programing Language - Java
+www.java.com/en/
+Java allows you to play online games, chat with people around the world, calculate your mortgage interest, and view images in 3D, just to name a few. It's also integral to the intranet applications and other e-business solutions that are the foundation of corporate computing.
+
+Programing Language - Python
+www.python.org
+Python is a programming language that lets you work more quickly and integrate your systems more effectively.
+
+Programing Language - Turing
+en.wikipedia.org/wiki/Turing_%28programming_language%29
+Turing is a Pascal-like programming language developed in 1982 by Ric Holt and James Cordy, then of University of Toronto, Canada.
+
+Programing Language - C++
+www.cplusplus.com/
+C++ (pronounced cee plus plus) is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing the facilities for low-level memory manipulation.
+
+Software Development Technic - Data Mining
+en.wikipedia.org/wiki/Data_mining
+Data Mining is an analytic process designed to explore data in search of consistent patterns and/or systematic relationships between variables, and then to validate the findings by applying the detected patterns to new subsets of data.
+
+Application Development Technic - UI Design
+en.wikipedia.org/wiki/User_interface_design
+User interface design (UID) or user interface engineering is the design of websites, computers, appliances, machines, mobile communication devices, and ...
+
+Application Development Technic - Android Platform
+http://www.android.com/
+Android is a mobile operating system (OS) based on the Linux kernel and currently developed by Google. With a user interface based on direct manipulation, ...
+
+Graphic Design Tool - Adobe Photoshop
+www.photoshop.com/
+Adobe Photoshop is a raster graphics editor developed and published by Adobe Systems for Windows and OS X. Photoshop was created in 1988 by Thomas ...
+
+Graphic Design Tool - Adobe Illustrator
+www.adobe.com/ca/products/illustrator.html
+Adobe Illustrator is a vector graphics editor developed and marketed by Adobe Systems. The latest version, Illustrator CC, is the seventeenth generation in the ...
+
+Graphic Design Tool - Adobe Flash Professional
+www.adobe.com/ca/products/flash.html
+Adobe Flash (formerly called Macromedia Flash and Shockwave Flash) is a multimedia and software platform used for creating vector graphics, animation, ...
+
+Video Editor - CyberLink PowerDirector
+www.cyberlink.com/stat/volume-license/enu/pdr.jsp
+PowerDirector is becoming an important tool for educators developing in-depth and creative curriculums that maximize the potential of students.
+
+Language - Mandarin
+en.wikipedia.org/wiki/Mandarin_Chinese
+Mandarin Chinese. This article is about the group of Northern and Southwestern Chinese dialects.
+
+Language - Cantonese
+en.wikipedia.org/wiki/Cantonese
+Cantonese, or Standard Cantonese (simplified Chinese: 广州话; traditional Chinese: 廣州話), is the dialect of Yue Chinese spoken in the vicinity of Canton (i.e. Guangzhou) in southern China.
+
+Language - English
+en.wikipedia.org/wiki/English_language
+English is a West Germanic language that was first spoken in early medieval England and is now a global lingua franca.
